@@ -187,19 +187,16 @@ This document should not be considered an official security audit, penetration t
 To conduct a Privacy Impact Assessment (PIA) of a system, identify possible privacy risks, and suggest suitable measures to protect personal data.
 
 ## System Chosen
-College Student Attendance Management System.
+College ERP - RAMANUJAN COLLLEGE.
 
-The system is used by students, teachers, and administrators to record, manage, and view attendance information.
+The system is used by students, teachers, and administrators to record, manage, and view ATTENDANCE INFO,TIME TABLE, SCHEDULE, SUBJECTS.
 
 ## Data Collected
 
 The system may collect the following information:
 
-- Student name
 - Student ID
-- Email address
-- Phone number
-- Course and semester
+- Password
 - Attendance records
 - Login credentials
 - IP address and basic login information
@@ -256,8 +253,8 @@ Possible risks are identified by considering how the data could be accessed, lea
 
 Privacy should be considered while designing the system instead of being added later.
 
-For example, if the attendance system does not require a student's home address, the system should not collect it. Similarly, students should only be able to access information that they are authorized to view.
+For example, if the ERP system does not require a student's home address, the system should not collect it. Similarly, students should only be able to access information that they are authorized to view.
 
 ## Conclusion
 
-The Privacy Impact Assessment helped identify the types of personal data used by the attendance management system and the possible privacy risks associated with it. Using access control, encryption, secure password storage, and data minimization can help reduce these risks and protect student information.
+The Privacy Impact Assessment helped identify the types of personal data used by the College Erp system and the possible privacy risks associated with it. Using access control, encryption, secure password storage, and data minimization can help reduce these risks and protect student information.
