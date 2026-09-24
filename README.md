@@ -559,7 +559,7 @@ Retain According to Requirements
       |
       v
 Securely Delete When No Longer Required
-
+```
 # Practical 4: Cryptography
 
 ## Aim
