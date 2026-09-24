@@ -560,3 +560,58 @@ Retain According to Requirements
       v
 Securely Delete When No Longer Required
 
+# Practical 4: Cryptography
+
+## Aim
+
+To study and implement different cryptographic techniques and tools, including encryption, hashing, and digital signatures.
+
+---
+
+## Objectives
+
+- To understand the concept of cryptography.
+- To implement symmetric encryption.
+- To implement cryptographic hashing.
+- To generate RSA public and private keys.
+- To create a digital signature.
+- To verify a digital signature.
+- To understand the practical applications of cryptography.
+
+---
+
+## Introduction
+
+Cryptography is the practice of protecting information by transforming it into a form that unauthorized users cannot easily understand.
+
+Cryptography is commonly used to provide:
+
+- Confidentiality
+- Integrity
+- Authentication
+- Non-repudiation
+
+The main techniques demonstrated in this practical are:
+
+1. Symmetric encryption
+2. SHA-256 hashing
+3. RSA public-key cryptography
+4. Digital signatures
+
+---
+
+# 1. Symmetric Encryption
+
+Symmetric encryption uses the same secret key for encryption and decryption.
+
+```text
+              Secret Key
+                  |
+                  v
+Plaintext ---> Encryption ---> Ciphertext
+                                  |
+                                  |
+                            Decryption
+                                  |
+                                  v
+                              Plaintext
