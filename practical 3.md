@@ -1,9 +1,5 @@
 
----
 
-### 2. `compliance_checklist.md`
-
-Create another file named `compliance_checklist.md` and paste:
 
 ```markdown
 # Data Protection Compliance Checklist
